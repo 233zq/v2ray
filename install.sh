@@ -81,7 +81,7 @@ transport=(
 	TCP
 	TCP_HTTP
 	WebSocket
-	"WebSocket + TLS"
+	WebSocket + TLS
 	HTTP/2
 	mKCP
 	mKCP_utp
